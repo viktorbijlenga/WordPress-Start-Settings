@@ -14,8 +14,6 @@ function wp_start_settings() {
     $o = array(
         'avatar_default'            => 'blank',
         'avatar_rating'             => 'G',
-        'category_base'             => '/kategori',
-        'tag_base'                  => '/etikett',
         'comment_max_links'         => 0,
         'comments_per_page'         => 0,
         'date_format'               => 'Y-m-d',
